@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "versionName": "9.9.9",
+        "versionCode": 999,
+        "type": "file",
+        "url": "https://rsdw.oss-cn-beijing.aliyuncs.com/dev/ruler/update/apk/Ruler_v1.0.0_999_dev_20210102-2048.apk",
+        "size": 5514365,
+        "md5": "7defc580654447f1c6c0cbbceea3791c",
+        "releaseNode": "1. 添加测量模式；\n2. 优化；",
+        "force": false,
+        "isSilent": false,
+        "hasUpdate": true
+    }
+}
